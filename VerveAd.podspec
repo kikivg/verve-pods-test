@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.author = { "Name" => "kristijan.rozankovic@verve.com" }
     s.license = { :type => 'MIT', :file => 'LICENSE' }
     s.platform = :ios
-    s.source = { :http => "https://github.com/kikivg/verve-pods-test/blob/master/VerveAd.zip" }
+    s.source = { :http => "https://github.com/kikivg/verve-pods-test/blob/master/VerveAd.zip?raw=true" }
     s.ios.deployment_target = "8.0"
     s.ios.vendored_frameworks = "VerveAd.framework"
 end
