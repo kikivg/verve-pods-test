@@ -1,5 +1,5 @@
 Pod::Spec.new do |s| 
-    s.name = 'VerveAd'
+    s.name = 'TestVerveAd'
     s.version = "3.7.5"
     s.summary = "Verve's mobile SDK..."
     s.homepage = "http://www.verve.com"
